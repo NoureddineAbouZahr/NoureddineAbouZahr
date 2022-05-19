@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **NoureddineAbouZahr/NoureddineAbouZahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="google.com">Hi</a>
+<button onclick="alert('hi')">Hi</button>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
