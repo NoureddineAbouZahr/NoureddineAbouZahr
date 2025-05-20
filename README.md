@@ -4,6 +4,11 @@
 
 ---
 
+## 🧠 Personal Motto
+
+**“Never dream about success — work for it.”**
+
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: **Real-world projects to sharpen my skills and achieve long-term goals**
