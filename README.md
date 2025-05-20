@@ -47,4 +47,11 @@ const noureddine = {
     }
   }
 };
+---
+
+## 📊 GitHub Stats
+
+![Noureddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoureddineAbouZahr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoureddineAbouZahr&layout=compact&theme=radical)
 
